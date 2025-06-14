@@ -88,7 +88,7 @@ curl https://api.chatfire.cn/v1/chat/completions   -H "Content-Type: application
 
 
 
-![image-20250613202625672](pic\image-20250613202625672.png)
+![image-20250613202625672](pic/image-20250613202625672.png)
 
 粘贴转换到md，得到需求模型
 
@@ -197,7 +197,7 @@ print(completion.choices[0].message)
 
 
 
-![image-20250613204158540](pic\image-20250613204158540.png)
+![image-20250613204158540](pic/image-20250613204158540.png)
 
 ```bash
 E:\01Software\04develop\02complie\anaconda3\python.exe D:\Desktop\02workspace\04Credit\02Yan\02Down\09requirement\04exp4\pythonProject1\hello.py 
@@ -234,7 +234,7 @@ completion: ChatCompletion = client.chat.completions.create(
 print(completion.choices[0].message)
 ```
 
-![image-20250613205250474](pic\image-20250613205250474.png)
+![image-20250613205250474](pic/image-20250613205250474.png)
 
 粘贴转换到md，得到需求模型
 
@@ -377,7 +377,7 @@ if __name__ == "__main__":
 
 
 
-![image-20250613212943869](pic\image-20250613212943869.png)
+![image-20250613212943869](pic/image-20250613212943869.png)
 
 
 
@@ -483,9 +483,9 @@ if __name__ == "__main__":
 
 执行结果如下
 
-![image-20250614171226827](pic\image-20250614171226827.png)
+![image-20250614171226827](pic/image-20250614171226827.png)
 
-![image-20250614174104561](pic\image-20250614174104561.png)
+![image-20250614174104561](pic/image-20250614174104561.png)
 
 
 
